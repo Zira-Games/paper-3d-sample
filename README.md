@@ -6,5 +6,5 @@ https://github.com/Zira-Games/state-machine-animation
 
 https://github.com/Zira-Games/paper-3d
 
-<img alt="jump to representation" src="https://raw.githubusercontent.com/Zira-Games/paper-3d-sample/master/.github/demo.webm">
+<img alt="demo" src="https://raw.githubusercontent.com/Zira-Games/paper-3d-sample/master/.github/github_demo.gif">
 
